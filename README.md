@@ -81,6 +81,11 @@ This project demonstrates that combining pseudo-3D reconstruction with attention
 This work is based on a conference paper titled:
 "Performance Analysis of 3D Palmprint Human Biometric Recognition System using Hierarchical Spatial Attention Network".
 
+## Reference
+This work is based on the conference paper:
 
+"Performance Analysis of 3D Palmprint Human Biometric Recognition System using HSANet"  
+
+[📄 View Paper](IEEE_Conference_Paper)
 ## Author
 Ayush Anthony Roy
