@@ -23,15 +23,15 @@ Key performance Metrics are shown below
 ### 📊 Accuracy Comparison
 Comparison of PCANet, HSANet, and MobileNetV3 performance.
 <img width="640" height="480" alt="accuracy_no_title" src="https://github.com/user-attachments/assets/3cede4bc-f65c-4933-8e1e-cee4643a7388" />
-()
+
 
 ### 📈 ROC Curve Analysis
 ROC curves showing classification performance across models.
-(<img width="640" height="480" alt="roc_no_random" src="https://github.com/user-attachments/assets/0e3af450-21cb-464e-b97f-dfd09af632a5" />)
+<img width="640" height="480" alt="roc_no_random" src="https://github.com/user-attachments/assets/0e3af450-21cb-464e-b97f-dfd09af632a5" />
 
 ### 📉 CMC Curve Analysis
 Recognition accuracy across rank levels.
-(<img width="640" height="480" alt="cmc_final" src="https://github.com/user-attachments/assets/47ef35bc-3371-449f-a961-4bbaca600c04" />)
+<img width="640" height="480" alt="cmc_final" src="https://github.com/user-attachments/assets/47ef35bc-3371-449f-a961-4bbaca600c04" />
 
 ---
 
@@ -81,8 +81,6 @@ This project demonstrates that combining pseudo-3D reconstruction with attention
 This work is based on a conference paper titled:
 "Performance Analysis of 3D Palmprint Human Biometric Recognition System using Hierarchical Spatial Attention Network".
 
-## Reference
-()
 
 ## Author
 Ayush Anthony Roy
