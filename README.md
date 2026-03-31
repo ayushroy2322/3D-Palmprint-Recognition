@@ -77,15 +77,13 @@ Recognition accuracy across rank levels.
 This project demonstrates that combining pseudo-3D reconstruction with attention-based deep learning significantly improves biometric recognition performance. The system is efficient, scalable, and suitable for real-world deployment on embedded devices.
 
 ---
-## Reference
-This work is based on a conference paper titled:
-"Performance Analysis of 3D Palmprint Human Biometric Recognition System using Hierarchical Spatial Attention Network".
 
 ## Reference
 This work is based on the conference paper:
 
 "Performance Analysis of 3D Palmprint Human Biometric Recognition System using HSANet"  
 
-[📄 View Paper](IEEE_Conference_Paper)
+[📄 View Paper](https://github.com/ayushroy2322/3D-Palmprint-Recognition/blob/main/IEEE_Conference_Paper.pdf)
+
 ## Author
 Ayush Anthony Roy
