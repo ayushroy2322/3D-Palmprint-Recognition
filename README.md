@@ -1,8 +1,11 @@
 # 3D Palmprint Biometric Recognition
+A deep learning-based biometric system using pseudo-3D reconstruction and attention networks, achieving near 100% accuracy.
+
 
 ## Overview
 This project presents a hybrid biometric recognition system using pseudo-3D reconstruction and deep learning techniques. The system improves robustness against illumination and positional variations compared to traditional 2D approaches.
 
+Developed as part of a research project at NMIT.
 ---
 
 ## Methodology
@@ -14,6 +17,8 @@ This project presents a hybrid biometric recognition system using pseudo-3D reco
 
 ## Results
 The system was evaluated on the IIT Delhi palmprint dataset using multiple performance metrics.
+
+Key performance Metrics are shown below
 
 ### 📊 Accuracy Comparison
 Comparison of PCANet, HSANet, and MobileNetV3 performance.
@@ -75,6 +80,9 @@ This project demonstrates that combining pseudo-3D reconstruction with attention
 ## Reference
 This work is based on a conference paper titled:
 "Performance Analysis of 3D Palmprint Human Biometric Recognition System using Hierarchical Spatial Attention Network".
+
+## Reference
+()
 
 ## Author
 Ayush Anthony Roy
